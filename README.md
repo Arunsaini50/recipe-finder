@@ -16,8 +16,6 @@ Welcome to **SpiceHunt** — a modern and responsive recipe finder app where you
 - 🎨 **Responsive UI** built with **React** and **Tailwind CSS**
 - 🎞️ **Smooth Animations** using **Framer Motion**
 - 📃 **API Integration** with [TheMealDB](https://www.themealdb.com/api.php)
-- 🎛️ **Next/Previous Navigation** inside recipe modal
-
 ---
 
 ## 🛠️ Tech Stack
@@ -37,9 +35,3 @@ git clone https://github.com/Arunsaini50/recipe-finder.git
 cd recipe-finder
 npm install
 npm run dev
-
-## ✨ Author
-
-Made with ❤️ by [Arun Saini](https://github.com/Arunsaini50)  
-[GitHub Profile](https://github.com/Arunsaini50) | [LinkedIn](https://www.linkedin.com/in/arunsaini)  
-Email: [arun.cnb91@gmail.com](mailto:arun.cnb91@gmail.com)  
