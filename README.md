@@ -1,12 +1,41 @@
-# React + Vite
+# 🍽️ SpiceHunt — Recipe Finder Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **SpiceHunt** — a modern and responsive recipe finder app where you can explore a variety of recipes with ease.
+---
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [SpiceHunt Live](https://spicehunt.netlify.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+
+- 🔍 **Search Recipes** by name
+- 🍲 **View Recipe Details** including ingredients and cooking instructions
+- 🎨 **Responsive UI** built with **React** and **Tailwind CSS**
+- 🎞️ **Smooth Animations** using **Framer Motion**
+- 📃 **API Integration** with [TheMealDB](https://www.themealdb.com/api.php)
+- 🎛️ **Next/Previous Navigation** inside recipe modal
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **Framer Motion**
+- **TheMealDB API**
+- **Netlify** (for deployment)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Arunsaini50/recipe-finder.git
+cd recipe-finder
+npm install
+npm run dev
+
+Made with ❤️ by Arun Saini
