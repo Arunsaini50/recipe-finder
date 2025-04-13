@@ -38,4 +38,6 @@ cd recipe-finder
 npm install
 npm run dev
 
+## 📣 Author
 Made with ❤️ by Arun Saini
+
